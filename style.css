@@ -1,0 +1,16 @@
+#mydiv{
+    position:absolute;
+    background-color: #f2f2f2;
+    padding:10px;
+    color:black;
+    text-align: center;
+    border: 1px solid #d3d3d3;
+}
+#mydiv > *{
+    border: 1px solid #d3d3d3;
+}
+#mydivheader{
+    background-color: #073e85;
+    color:white;
+    padding:10px;
+}
